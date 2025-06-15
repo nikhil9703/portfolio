@@ -46,7 +46,7 @@ const About = () => {
                 I'm a dedicated Artificial Intelligence and Data Science student with a passion for creating innovative web applications and solving complex problems through code and data-driven solutions. My journey in tech began with curiosity and has grown into a strong commitment to building meaningful, user-focused digital experiences that blend intelligent design with real-world functionality.
               </p>
               <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-                Completed pursuing my B.Tech in Artificial Intelligence and Data Science, I’ve gained hands-on experience in full-stack web development, working with technologies like ReactJS, Django, PostgreSQL, and Python. I enjoy building responsive, real-world applications with clean and efficient code. I’m passionate about learning emerging tools and trends, and I'm driven to apply my technical skills to solve meaningful problems through scalable and impactful solutions.
+                Completed my B.Tech in Artificial Intelligence and Data Science, I’ve gained hands-on experience in full-stack web development, working with technologies like ReactJS, Django, PostgreSQL, and Python. I enjoy building responsive, real-world applications with clean and efficient code. I’m passionate about learning emerging tools and trends, and I'm driven to apply my technical skills to solve meaningful problems through scalable and impactful solutions.
               </p>
               
               <div className="flex flex-wrap gap-4">

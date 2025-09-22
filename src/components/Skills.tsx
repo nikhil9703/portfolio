@@ -19,6 +19,7 @@ const Skills = () => {
       title: "Backend Development",
       icon: <Server className="w-8 h-8" />,
       skills: [
+        { name: "PHP", level: 90 },
         { name: "Node.js", level: 85 },
         { name: "Python", level: 75 },
         { name: "REST APIs", level: 85 },
